@@ -1,0 +1,30 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #333;
+    color: white;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .search-bar {
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+  }
+  
+  .upload-btn {
+    background: #ff4757;
+    color: white;
+    padding: 8px 12px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
